@@ -1,0 +1,7 @@
+{
+  "name": "Grandmaster Cash",
+  "description": "A professional-grade chess platform designed for corporate competitors, featuring real-money stakes, advanced Stockfish-powered analysis, and an elegant wood-and-cream aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
